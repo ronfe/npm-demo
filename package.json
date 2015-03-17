@@ -1,5 +1,5 @@
 {
-  "name": "npm-demo",
+  "name": "ronfedemo",
   "version": "0.1.0",
   "description": "A demo of npm package",
   "main": "index.js",
